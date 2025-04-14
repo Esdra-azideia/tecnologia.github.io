@@ -8,7 +8,7 @@ bodY{
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-image: linear-gradient(to bottom rgb(158, 20, 20) 0%, #0004ff 40%);
+    background-image: linear-gradient(to bottom right, rgb(158, 20, 20) 0%, #0004ff 40%);
     animation: float 6s infinite alternate;
 }
 
@@ -47,9 +47,9 @@ main a{
     background: #63a0e6;
     padding: 15px 0;
     text-decoration: none;
-    color: white;
+    color: rgb(80, 60, 213);
     border-radius: 5px;
-    box-shadow: 10px 10px #fb0000;
+    box-shadow: 10px 10px #d20d0d;
     transition: all .5s ease-in-out;
 
 }
@@ -81,6 +81,6 @@ main a:hover{
     }
     main a{
         padding: 10 px 0;
-        box-shadow: 5px 5px #eeaeCa;
+        box-shadow: 5px 5px #eeaeae;
     }
 }

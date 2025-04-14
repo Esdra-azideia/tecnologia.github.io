@@ -47,9 +47,9 @@ main a{
     background: #63a0e6;
     padding: 15px 0;
     text-decoration: none;
-    color: white;
+    color: rgb(80, 60, 213);
     border-radius: 5px;
-    box-shadow: 10px 10px #ca0606;
+    box-shadow: 10px 10px #d20d0d;
     transition: all .5s ease-in-out;
 
 }
@@ -81,6 +81,6 @@ main a:hover{
     }
     main a{
         padding: 10 px 0;
-        box-shadow: 5px 5px #c10303;
+        box-shadow: 5px 5px #eeaeae;
     }
 }
